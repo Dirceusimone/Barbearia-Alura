@@ -1,5 +1,3 @@
-# Barbearia-Alura
-
 <h1>Sobre Barbearia Alura</h1>
 
 
